@@ -1,10 +1,6 @@
-# 👋 Olá, eu sou a Bruna 
+# 👩‍💻 Bruna Luiza – Desenvolvedora Full Stack
 
-Sou **Desenvolvedora Full Stack em transição de carreira**, formada pelo **Bootcamp da Generation Brasil**, com foco em **Backend e Frontend**.  
-
-Comecei cedo em **vendas, telemarketing e administração**, desenvolvendo **comunicação, paciência e organização**. Hoje aplico essas habilidades no desenvolvimento de software, resolvendo problemas reais e colaborando em equipe.  
-
-✨ **Curiosa, determinada e prática**, acredito que cada projeto é uma oportunidade de aprender, evoluir e entregar soluções de qualidade.
+Desenvolvedora Full Stack em transição de carreira, com experiência prática em **projetos Backend e Frontend**, APIs REST, integração Full Stack e deploy.
 
 ---
 
@@ -41,34 +37,34 @@ Comecei cedo em **vendas, telemarketing e administração**, desenvolvendo **com
 ## 🚀 Projetos em destaque
 
 ### [Blog Pessoal](https://github.com/brunaluiza18/Blog-pessoal)  
-![Preview Blog](./Blog-pessoal/assets/preview.png) <!-- Substitua por print real estilo iCarly -->  
-- **Descrição:** Projeto pessoal de Blog Full Stack, com criação, edição e exclusão de posts, comentários e autenticação de usuários. Estilo divertido e visual inspirado no iCarly.  
-- **Stack:** Node.js, NestJS, TypeORM, MySQL, React, JWT, Insomnia, Swagger  
-- **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)  
+![Preview Blog](./Blog-pessoal/assets/preview.png)  
+- **Descrição:** Blog Full Stack com criação, edição e exclusão de posts, comentários e autenticação de usuários.  
+- **Stack:** Node.js, NestJS, TypeORM, MySQL, React, JWT, Swagger, Render  
+- **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)
 
 ### [Sistema RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos.git)  
-![Preview Sistema RH](./recursos_humanos/assets/swagger_preview.png) <!-- Use print do Swagger ou DER -->  
-- **Descrição:** API REST escalável com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe do Bootcamp.  
+![Preview Sistema RH](./recursos_humanos/assets/swagger_preview.png)  
+- **Descrição:** API REST com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe do Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Swagger, Render  
 - **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ### [Vitalis Seguros](https://github.com/Grupo-07-Turma-Java-Script-11/seguro_vida.git)  
-![Preview Vitalis Seguros](./seguro_vida/assets/swagger_preview.png) <!-- Print do Swagger ou DER -->  
-- **Descrição:** Backend de sistema de seguro de vida, CRUD completo, testes via Insomnia. Projeto em equipe do Bootcamp.  
+![Preview Vitalis Seguros](./seguro_vida/assets/swagger_preview.png)  
+- **Descrição:** Backend de sistema de seguro de vida, CRUD completo e testes via Insomnia. Projeto em equipe do Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
-- **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)
+- **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ### [Projeto Final Bloco 2](https://github.com/brunaluiza18/projeto_final_bloco_02.git)  
-![Preview Bloco 2](./projeto_final_bloco_02/assets/preview.png) <!-- Print real hospedado no repo -->  
-- **Descrição:** Projeto individual desenvolvido ao final do Bloco 2 do Bootcamp, consolidando conhecimentos de Backend, testes de APIs e integração.  
+![Preview Bloco 2](./projeto_final_bloco_02/assets/preview.png)  
+- **Descrição:** Projeto individual consolidando conhecimentos de Backend, testes de APIs e integração Full Stack.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
 - **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ---
 
-## 🌱 O que estou aprendendo
-- Desenvolvimento **Frontend moderno** e responsivo com React  
-- Integração **Full Stack**: Frontend + Backend  
+## 🌱 Aprendizado Atual
+- Desenvolvimento **Frontend moderno** com React  
+- Integração **Full Stack** (Frontend + Backend)  
 - Boas práticas de **arquitetura, testes e deploy com Render**  
 - Documentação de APIs com **Swagger**  
 
@@ -80,4 +76,4 @@ Comecei cedo em **vendas, telemarketing e administração**, desenvolvendo **com
 
 ---
 
-✨ **Minha missão:** criar soluções que façam sentido, aprender todos os dias e construir minha trajetória na tecnologia com **propósito e autenticidade**.
+**Objetivo:** Demonstrar habilidades técnicas em Full Stack e entregar projetos funcionais, escaláveis e de qualidade.
