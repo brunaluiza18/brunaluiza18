@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Bruna Luiza
+# 👋 Olá, eu sou a Bruna 
 
 Sou **Desenvolvedora Full Stack em transição de carreira**, formada pelo **Bootcamp da Generation Brasil**, com foco em **Backend e Frontend**.  
 
