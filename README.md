@@ -41,22 +41,28 @@ Comecei cedo em **vendas, telemarketing e administração**, o que me trouxe **c
 ## 🚀 Projetos em destaque
 
 ### [Blog Pessoal](https://github.com/brunaluiza18/Blog-pessoal)  
-![Preview Blog](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
-- **Descrição:** Projeto pessoal de Blog Full Stack, com funcionalidades de criação, edição e exclusão de posts, comentários e autenticação de usuários.  
+![Preview Blog](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  
+- **Descrição:** Projeto pessoal de Blog Full Stack, com funcionalidades de criação, edição e exclusão de posts, comentários e autenticação de usuários.   
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, React, JWT, Insomnia, Swagger  
 - **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)  
 
-### [Sistema RH](https://github.com/seu-usuario/sistema-rh)  
+### [Sistema RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos.git)  
 ![Preview Sistema RH](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-- **Descrição:** API REST escalável com autenticação JWT, CRUD completo e integração com MySQL.  
+- **Descrição:** API REST escalável com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe desenvolvido durante o Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Swagger, Render  
 - **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
-### [Vitalis Seguros](https://github.com/seu-usuario/vitalis-seguros)  
+### [Vitalis Seguros](https://github.com/Grupo-07-Turma-Java-Script-11/seguro_vida.git)  
 ![Preview Vitalis Seguros](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
-- **Descrição:** Backend de sistema de seguro de vida, CRUD completo, testes via Insomnia.  
+- **Descrição:** Backend de sistema de seguro de vida, CRUD completo, testes via Insomnia. Projeto em equipe desenvolvido no Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
 - **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)
+
+### [Projeto Final Bloco 2](https://github.com/brunaluiza18/projeto_final_bloco_02.git)  
+![Preview Bloco 2](https://media.giphy.com/media/l0HlQ7LR8cA0QO2O0/giphy.gif)  
+- **Descrição:** Projeto individual desenvolvido ao final do Bloco 2 do Bootcamp, consolidando conhecimentos de Backend e testes de APIs.  
+- **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
+- **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ---
 
