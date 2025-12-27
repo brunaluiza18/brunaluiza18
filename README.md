@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedora Full Stack em transição de carreira**, formada pelo **Bootcamp da Generation Brasil**, com foco em **Backend e Frontend**.  
 
-Comecei cedo em **vendas, telemarketing e administração**, o que me trouxe **comunicação, paciência e organização**. Hoje aplico essas habilidades no desenvolvimento de software, resolvendo problemas reais e colaborando em equipe.  
+Comecei cedo em **vendas, telemarketing e administração**, desenvolvendo **comunicação, paciência e organização**. Hoje aplico essas habilidades no desenvolvimento de software, resolvendo problemas reais e colaborando em equipe.  
 
 ✨ **Curiosa, determinada e prática**, acredito que cada projeto é uma oportunidade de aprender, evoluir e entregar soluções de qualidade.
 
@@ -41,26 +41,26 @@ Comecei cedo em **vendas, telemarketing e administração**, o que me trouxe **c
 ## 🚀 Projetos em destaque
 
 ### [Blog Pessoal](https://github.com/brunaluiza18/Blog-pessoal)  
-![Preview Blog](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  
-- **Descrição:** Projeto pessoal de Blog Full Stack, com funcionalidades de criação, edição e exclusão de posts, comentários e autenticação de usuários.   
+![Preview Blog](./Blog-pessoal/assets/preview.png) <!-- Substitua por print real estilo iCarly -->  
+- **Descrição:** Projeto pessoal de Blog Full Stack, com criação, edição e exclusão de posts, comentários e autenticação de usuários. Estilo divertido e visual inspirado no iCarly.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, React, JWT, Insomnia, Swagger  
 - **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)  
 
 ### [Sistema RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos.git)  
-![Preview Sistema RH](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-- **Descrição:** API REST escalável com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe desenvolvido durante o Bootcamp.  
+![Preview Sistema RH](./recursos_humanos/assets/swagger_preview.png) <!-- Use print do Swagger ou DER -->  
+- **Descrição:** API REST escalável com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe do Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Swagger, Render  
 - **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ### [Vitalis Seguros](https://github.com/Grupo-07-Turma-Java-Script-11/seguro_vida.git)  
-![Preview Vitalis Seguros](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
-- **Descrição:** Backend de sistema de seguro de vida, CRUD completo, testes via Insomnia. Projeto em equipe desenvolvido no Bootcamp.  
+![Preview Vitalis Seguros](./seguro_vida/assets/swagger_preview.png) <!-- Print do Swagger ou DER -->  
+- **Descrição:** Backend de sistema de seguro de vida, CRUD completo, testes via Insomnia. Projeto em equipe do Bootcamp.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
 - **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)
 
 ### [Projeto Final Bloco 2](https://github.com/brunaluiza18/projeto_final_bloco_02.git)  
-![Preview Bloco 2](https://media.giphy.com/media/l0HlQ7LR8cA0QO2O0/giphy.gif)  
-- **Descrição:** Projeto individual desenvolvido ao final do Bloco 2 do Bootcamp, consolidando conhecimentos de Backend e testes de APIs.  
+![Preview Bloco 2](./projeto_final_bloco_02/assets/preview.png) <!-- Print real hospedado no repo -->  
+- **Descrição:** Projeto individual desenvolvido ao final do Bloco 2 do Bootcamp, consolidando conhecimentos de Backend, testes de APIs e integração.  
 - **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
 - **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 
