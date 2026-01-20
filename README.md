@@ -1,79 +1,47 @@
-# 👩‍💻 Bruna Luiza – Desenvolvedora Full Stack
+# Olá, eu sou a Bruna Luiza! 👋
 
-Desenvolvedora Full Stack em transição de carreira, com experiência prática em **projetos Backend e Frontend**, APIs REST, integração Full Stack e deploy.
+### 👩‍💻 Desenvolvedora Full Stack em Transição de Carreira
 
----
-
-## 💻 Tecnologias & Stack
-
-**Linguagens:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Banco de Dados & ORM:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![TypeORM](https://img.shields.io/badge/-TypeORM-315CBB?style=flat)
-
-**Ferramentas & Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat)  
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat)  
-![Render](https://img.shields.io/badge/-Render-20232A?style=flat)  
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat)  
+Atualmente finalizando o Bootcamp de Desenvolvimento Full Stack JavaScript na **Generation Brasil**. Unindo 9 anos de experiência em **Vendas Consultivas e Customer Experience** com a paixão por resolver problemas reais através do código.
 
 ---
 
-## 🚀 Projetos em destaque
+### 🛠️ Tecnologias e Ferramentas
 
-### [Blog Pessoal](https://github.com/brunaluiza18/Blog-pessoal)  
-![Preview Blog](./Blog-pessoal/assets/preview.png)  
-- **Descrição:** Blog Full Stack com criação, edição e exclusão de posts, comentários e autenticação de usuários.  
-- **Stack:** Node.js, NestJS, TypeORM, MySQL, React, JWT, Swagger, Render  
-- **Status:** ![Em andamento](https://img.shields.io/badge/status-em%20andamento-yellow)
+**Front-end:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### [Sistema RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos.git)  
-![Preview Sistema RH](./recursos_humanos/assets/swagger_preview.png)  
-- **Descrição:** API REST com autenticação JWT, CRUD completo e integração com MySQL. Projeto em equipe do Bootcamp.  
-- **Stack:** Node.js, NestJS, TypeORM, MySQL, Swagger, Render  
-- **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
+**Back-end:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### [Vitalis Seguros](https://github.com/Grupo-07-Turma-Java-Script-11/seguro_vida.git)  
-![Preview Vitalis Seguros](./seguro_vida/assets/swagger_preview.png)  
-- **Descrição:** Backend de sistema de seguro de vida, CRUD completo e testes via Insomnia. Projeto em equipe do Bootcamp.  
-- **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
-- **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
-
-### [Projeto Final Bloco 2](https://github.com/brunaluiza18/projeto_final_bloco_02.git)  
-![Preview Bloco 2](./projeto_final_bloco_02/assets/preview.png)  
-- **Descrição:** Projeto individual consolidando conhecimentos de Backend, testes de APIs e integração Full Stack.  
-- **Stack:** Node.js, NestJS, TypeORM, MySQL, Insomnia, Git/GitHub  
-- **Status:** ![Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
+**Ferramentas e Processos:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 🌱 Aprendizado Atual
-- Desenvolvimento **Frontend moderno** com React  
-- Integração **Full Stack** (Frontend + Backend)  
-- Boas práticas de **arquitetura, testes e deploy com Render**  
-- Documentação de APIs com **Swagger**  
+### 🚀 Principais Projetos
+
+* **[Blog Pessoal - API](https://github.com/brunaluiza18/Blog-pessoal):** Backend completo desenvolvido com NestJS e MySQL, incluindo autenticação de usuário e segurança.
+* **[Blog Pessoal - Front](https://github.com/brunaluiza18/React-Blog-Pessoal-):** Interface interativa em React para consumo da API do Blog.
 
 ---
 
-## 📫 Contato
-- LinkedIn: [https://www.linkedin.com/in/brunaluiza1998/](https://www.linkedin.com/in/goncalvesbrunal/)  
-- Email: [brunaluiza.contat@gmail.com]  
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunaluiza1998/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaluiza.contat@gmail.com)
 
 ---
 
-**Objetivo:** Demonstrar habilidades técnicas em Full Stack e entregar projetos funcionais, escaláveis e de qualidade.
+### 📊 GitHub Stats
+![Estatísticas do GitHub de Bruna](https://github-readme-stats.vercel.app/api?username=brunaluiza18&show_icons=true&theme=radical)
