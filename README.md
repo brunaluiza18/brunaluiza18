@@ -1,28 +1,38 @@
 # Olá, eu sou a Bruna Luiza! 👋
 
-### Desenvolvedora Full Stack em formação | Analista de Suporte & Customer Success
+### Desenvolvedora Full Stack | Suporte Técnico | Customer Success
 
-Sou uma profissional apaixonada por tecnologia e pela resolução de problemas. Meu foco está em unir o desenvolvimento técnico com a excelência no atendimento ao cliente, garantindo que a tecnologia seja uma ferramenta de sucesso para o usuário final.
-
----
-
-### 🛠️ No que eu posso ajudar?
-
-- **Desenvolvimento:** Criação de interfaces modernas, responsivas e funcionais com foco em experiência do usuário (UX).
-- **Suporte & Análise:** Diagnóstico de problemas técnicos, SQL para análise de dados e comunicação clara entre o time técnico e o cliente.
-- **Customer Success:** Foco no sucesso do cliente, onboarding de novos usuários e melhoria contínua de processos.
+Sou uma profissional movida pela tecnologia e pela experiência do usuário. Minha trajetória une o desenvolvimento de software com a visão analítica necessária para o Suporte e o Sucesso do Cliente. Acredito que um bom código deve vir acompanhado de uma comunicação clara e foco na solução de problemas.
 
 ---
 
-### 🚀 Minhas Tech Skills
+### 🚀 Principais Projetos
 
-- **Linguagens & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js.
-- **Ferramentas de Suporte & Gestão:** SQL, Git/GitHub, Metodologias Ágeis (Scrum/Kanban).
-- **Soft Skills:** Comunicação Assertiva, Resolução de Conflitos, Empatia Técnica e Organização.
+Aqui estão os destaques do meu portfólio, incluindo projetos individuais e colaborativos:
+
+* **[Projeto Integrador: RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos)**: Sistema focado em gestão de pessoas (PI em equipe), demonstrando habilidades em regras de negócio e colaboração ágil.
+* **[Loja de Games](https://github.com/brunaluiza18/Loja-de-game)**: Aplicação de e-commerce com foco em lógica de backend e frontend dinâmico.
+* **[React Blog Pessoal](https://github.com/brunaluiza18/React-Blog-Pessoal-)**: Blog funcional utilizando React, focado em performance e componentes modernos.
+* **[Meu Portfólio](https://github.com/brunaluiza18/Portfolio)**: Onde centralizo minhas experiências e tecnologias.
 
 ---
 
-### 📊 Estatísticas e Destaques
+### 🛠️ Minhas Habilidades (Tech & Soft Skills)
+
+**💻 Desenvolvimento & TI:**
+- **Frontend:** HTML5, CSS3, JavaScript, React.js.
+- **Backend/Dados:** Java, Spring Boot, SQL (Banco de Dados).
+- **Ferramentas:** Git, GitHub, Metodologias Ágeis (Scrum/Kanban).
+
+**🤝 Suporte & Customer Success:**
+- Diagnóstico e resolução de problemas técnicos (Troubleshooting).
+- Documentação clara de processos e manuais.
+- Foco em retenção, onboarding e satisfação do cliente (NPS/CSAT).
+- Comunicação assertiva entre o time técnico e o cliente final.
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaluiza18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,10 +41,10 @@ Sou uma profissional apaixonada por tecnologia e pela resolução de problemas. 
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Vamos conversar?
 
-- **LinkedIn:** (https://www.linkedin.com/in/goncalvesbrunal/)
+- **LinkedIn:** [https://www.linkedin.com/in/goncalvesbrunal/]
 - **E-mail:** [brunaluiza.contat@gmail.com]
 
 ---
-*“A tecnologia move o mundo, mas a empatia e a comunicação constroem soluções.”*
+*“Transformando linhas de código em soluções para pessoas.”*
