@@ -1,38 +1,37 @@
 # Olá, eu sou a Bruna Luiza! 👋
 
-### Desenvolvedora Full Stack | Suporte Técnico | Customer Success
+### 💻 Desenvolvedora Full Stack | 🛠️ Suporte Técnico & Analista | 🤝 Customer Success
 
-Sou uma profissional movida pela tecnologia e pela experiência do usuário. Minha trajetória une o desenvolvimento de software com a visão analítica necessária para o Suporte e o Sucesso do Cliente. Acredito que um bom código deve vir acompanhado de uma comunicação clara e foco na solução de problemas.
-
----
-
-### 🚀 Principais Projetos
-
-Aqui estão os destaques do meu portfólio, incluindo projetos individuais e colaborativos:
-
-* **[Projeto Integrador: RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos)**: Sistema focado em gestão de pessoas (PI em equipe), demonstrando habilidades em regras de negócio e colaboração ágil.
-* **[Loja de Games](https://github.com/brunaluiza18/Loja-de-game)**: Aplicação de e-commerce com foco em lógica de backend e frontend dinâmico.
-* **[React Blog Pessoal](https://github.com/brunaluiza18/React-Blog-Pessoal-)**: Blog funcional utilizando React, focado em performance e componentes modernos.
-* **[Meu Portfólio](https://github.com/brunaluiza18/Portfolio)**: Onde centralizo minhas experiências e tecnologias.
+Sou uma profissional versátil na área de TI, com foco em desenvolver soluções que unem código de alta qualidade a uma experiência excepcional para o usuário. Minha trajetória combina a construção de aplicações modernas (React/Java) com a visão analítica necessária para suporte técnico e sucesso do cliente.
 
 ---
 
-### 🛠️ Minhas Habilidades (Tech & Soft Skills)
+### 🚀 No que eu me destaco:
 
-**💻 Desenvolvimento & TI:**
-- **Frontend:** HTML5, CSS3, JavaScript, React.js.
-- **Backend/Dados:** Java, Spring Boot, SQL (Banco de Dados).
-- **Ferramentas:** Git, GitHub, Metodologias Ágeis (Scrum/Kanban).
-
-**🤝 Suporte & Customer Success:**
-- Diagnóstico e resolução de problemas técnicos (Troubleshooting).
-- Documentação clara de processos e manuais.
-- Foco em retenção, onboarding e satisfação do cliente (NPS/CSAT).
-- Comunicação assertiva entre o time técnico e o cliente final.
+- **Desenvolvimento:** Criação de interfaces responsivas, SPAs com React, consumo de APIs REST e lógica de backend.
+- **Análise e Suporte:** Diagnóstico de problemas (troubleshooting), documentação técnica clara e tradução de requisitos técnicos para usuários finais.
+- **Sucesso do Cliente:** Foco em garantir que a tecnologia entregue o valor esperado, atuando na retenção e satisfação.
 
 ---
 
-### 📊 Estatísticas
+### 📂 Projetos em Destaque
+
+* **[React Blog Pessoal](https://github.com/brunaluiza18/React-Blog-Pessoal-)**: Domínio técnico em React, Hooks e consumo de APIs.
+* **[Projeto Integrador RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos)**: Trabalho em equipe e visão de processos corporativos.
+* **[Loja de Games](https://github.com/brunaluiza18/Loja-de-game)**: Lógica de e-commerce e gestão de dados.
+* **[Meu Portfólio](https://github.com/brunaluiza18/Portfolio)**: Minha vitrine oficial com foco em UX/UI.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Linguagens/Frameworks:** JavaScript (ES6+), React.js, HTML5, CSS3, Java, Spring Boot.
+- **Ferramentas & Dados:** SQL, Git, GitHub, Metodologias Ágeis (Scrum/Kanban).
+- **Soft Skills:** Comunicação Assertiva, Resolução de Conflitos, Visão Analítica.
+
+---
+
+### 📊 Estatísticas e Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaluiza18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -41,10 +40,10 @@ Aqui estão os destaques do meu portfólio, incluindo projetos individuais e col
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Vamos nos conectar?
 
-- **LinkedIn:** [https://www.linkedin.com/in/goncalvesbrunal/]
-- **E-mail:** [brunaluiza.contat@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/goncalvesbrunal/](https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
 
 ---
-*“Transformando linhas de código em soluções para pessoas.”*
+*“A tecnologia move o mundo, mas a comunicação e o código bem escrito constroem o futuro.”*
