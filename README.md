@@ -33,8 +33,8 @@ Sou uma profissional apaixonada por tecnologia e pela resolução de problemas. 
 
 ### 📫 Vamos nos conectar?
 
-- **LinkedIn:** [Seu Nome no LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-- **E-mail:** [Seu E-mail Profissional](mailto:seuemail@exemplo.com)
+- **LinkedIn:** (https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com]
 
 ---
 *“A tecnologia move o mundo, mas a empatia e a comunicação constroem soluções.”*
