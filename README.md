@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedora Full Stack | 🛠️ Suporte Técnico & Analista | 🤝 Customer Success
 
-Sou uma profissional versátil na área de TI, com foco em desenvolver soluções que unem código de alta qualidade a uma experiência excepcional para o usuário. Minha trajetória combina a construção de aplicações modernas (React/Java) com a visão analítica necessária para suporte técnico e sucesso do cliente.
+Sou uma profissional versátil na área de TI, com foco em desenvolver soluções que unem código de alta qualidade a uma experiência excepcional para o usuário. Minha trajetória combina a construção de aplicações modernas (React) com a visão analítica necessária para suporte técnico e sucesso do cliente.
 
 ---
 
@@ -25,7 +25,7 @@ Sou uma profissional versátil na área de TI, com foco em desenvolver soluçõe
 
 ### 🛠️ Tech Stack
 
-- **Linguagens/Frameworks:** JavaScript (ES6+), React.js, HTML5, CSS3, Java, Spring Boot.
+- **Linguagens/Frameworks:** JavaScript (ES6+), React.js, HTML5, CSS3, Spring Boot.
 - **Ferramentas & Dados:** SQL, Git, GitHub, Metodologias Ágeis (Scrum/Kanban).
 - **Soft Skills:** Comunicação Assertiva, Resolução de Conflitos, Visão Analítica.
 
