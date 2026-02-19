@@ -1,49 +1,95 @@
-# Olá, eu sou a Bruna Luiza! 👋
+# Olá, eu sou a Bruna Luiza! 👋🏾
 
-### 💻 Desenvolvedora Full Stack | 🛠️ Suporte Técnico & Analista | 🤝 Customer Success
+💻 Desenvolvedora Backend & Dados  
+📊 Foco em SQL, Modelagem Relacional e Análise de Dados  
+🎓 Técnica em IA (em andamento)
 
-Sou uma profissional versátil na área de TI, com foco em desenvolver soluções que unem código de alta qualidade a uma experiência excepcional para o usuário. Minha trajetória combina a construção de aplicações modernas (React) com a visão analítica necessária para suporte técnico e sucesso do cliente.
+Sou uma profissional em transição estratégica para a área de Dados, com base sólida em desenvolvimento Full Stack e experiência anterior em comunicação, suporte e processos administrativos.
 
----
-
-### 🚀 No que eu me destaco:
-
-- **Desenvolvimento:** Criação de interfaces responsivas, SPAs com React, consumo de APIs REST e lógica de backend.
-- **Análise e Suporte:** Diagnóstico de problemas (troubleshooting), documentação técnica clara e tradução de requisitos técnicos para usuários finais.
-- **Sucesso do Cliente:** Foco em garantir que a tecnologia entregue o valor esperado, atuando na retenção e satisfação.
-
----
-
-### 📂 Projetos em Destaque
-
-* **[React Blog Pessoal](https://github.com/brunaluiza18/React-Blog-Pessoal-)**: Domínio técnico em React, Hooks e consumo de APIs.
-* **[Projeto Integrador RH](https://github.com/Grupo-07-Turma-Java-Script-11/recursos_humanos)**: Trabalho em equipe e visão de processos corporativos.
-* **[Loja de Games](https://github.com/brunaluiza18/Loja-de-game)**: Lógica de e-commerce e gestão de dados.
-* **[Meu Portfólio](https://github.com/brunaluiza18/Portfolio)**: Minha vitrine oficial com foco em UX/UI.
+Hoje concentro meus estudos e projetos em:
+- Modelagem de banco de dados
+- Consultas analíticas com SQL
+- Análise orientada a negócio
+- Backend com JavaScript
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Projetos em Destaque
 
-- **Linguagens/Frameworks:** JavaScript (ES6+), React.js, HTML5, CSS3, Spring Boot.
-- **Ferramentas & Dados:** SQL, Git, GitHub, Metodologias Ágeis (Scrum/Kanban).
-- **Soft Skills:** Comunicação Assertiva, Resolução de Conflitos, Visão Analítica.
+### 📊 Análise de Vendas com SQL (MySQL)
+Mini projeto de análise de dados simulando cenário real de vendas.
+- Modelagem relacional (clientes + pedidos)
+- PK, FK e integridade referencial
+- Agregações (SUM, COUNT, ROUND)
+- JOIN entre tabelas
+- Extração de insights estratégicos
 
----
-
-### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaluiza18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaluiza18&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+➡ Foco total em métricas de negócio e tomada de decisão.
 
 ---
 
-### 📫 Vamos nos conectar?
-
-- **LinkedIn:** [https://www.linkedin.com/in/goncalvesbrunal/](https://www.linkedin.com/in/goncalvesbrunal/)
-- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
+### 🏢 Projeto Integrador RH
+Sistema completo com frontend e backend.
+- Trabalho em equipe
+- Modelagem de dados
+- APIs REST
+- Processos corporativos
 
 ---
-*“A tecnologia move o mundo, mas a comunicação e o código bem escrito constroem o futuro.”*
+
+### 🛍 Loja de Games (Backend)
+Backend para e-commerce.
+- CRUD completo
+- Estrutura de dados
+- Lógica de negócio
+- Organização de APIs
+
+---
+
+### 📝 React Blog Pessoal
+Projeto com foco em React e consumo de APIs.
+- Hooks
+- Componentização
+- SPA
+
+---
+
+### 🎨 Portfólio
+Minha vitrine profissional com foco em organização e experiência do usuário.
+
+---
+
+## 🛠️ Tech Stack
+
+**Banco de Dados & Dados**
+- MySQL
+- SQL (DDL, DML, DQL)
+- Modelagem Relacional
+- Consultas Analíticas
+
+**Backend**
+- JavaScript
+- Node.js
+- APIs REST
+
+**Frontend**
+- React.js
+- HTML5
+- CSS3
+
+---
+
+## 📈 Atualmente evoluindo em:
+- Análise de Dados
+- Estruturação de queries avançadas
+- Integração SQL + Dashboard
+- IA aplicada a dados
+
+---
+
+## 📫 Vamos nos conectar?
+
+🔗 LinkedIn: www.linkedin.com/in/goncalvesbrunal/  
+📩 E-mail: brunaluiza.contat@gmail.com  
+
+> "Transformando dados em decisões e código em soluções."
