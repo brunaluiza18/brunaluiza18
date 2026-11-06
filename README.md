@@ -1,103 +1,15 @@
-# 🌿 Olá, eu sou a Bruna Luiza! 👋🏽  
+🌿 Olá, eu sou a Bruna Luiza!
+Desenvolvedora Backend & Dados com foco em IA aplicada
 
-📊 Desenvolvedora Backend & Dados  
-🧠 Foco em SQL, Modelagem Relacional e Análise de Dados  
-🎓 Técnica em IA (em andamento)  
+Trago 8 anos de atendimento, vendas B2B e prospecção automatizada, e hoje uso esse olhar de negócio para construir soluções com dados e IA que dá para confiar: com validação humana e métricas.
 
-Sou uma profissional em transição estratégica para a área de Dados, com base sólida em desenvolvimento Full Stack e experiência anterior em comunicação, suporte e processos administrativos.
+🎓 Técnica em Inteligência Artificial (Senac, conclusão 09/2027) · Bootcamp Full Stack JavaScript (Generation Brasil) · Sistemas de Informação (ingresso em 2027)
 
-Hoje concentro meus estudos e projetos em:
+🚀 Projetos em destaque
 
-- Modelagem de banco de dados  
-- Consultas analíticas com SQL  
-- Extração de insights orientados a negócio  
-- Backend com JavaScript  
+SPTrans + IBGE: banco relacional em MySQL, análise com Python/Pandas e consultas assistidas por LLM (API Groq) com validação humana (human-in-the-loop).
+PeopleFlow (Generation Brasil): sistema de RH full stack, apresentado no GenDay. Backend na 1ª entrega e Scrum Master na 2ª.
+Análise de Vendas com SQL: modelagem relacional, JOIN e agregações para extrair insights de negócio.
+Loja de Games: backend com CRUD completo e APIs REST.
 
----
-
-# 🚀 Projetos em Destaque  
-
-## 📊 Análise de Vendas com SQL (MySQL)  
-Mini projeto simulando um cenário real de vendas com foco em métricas de negócio.
-
-**Aplicado no projeto:**
-- Modelagem relacional (clientes + pedidos)
-- PK, FK e integridade referencial
-- JOIN entre tabelas
-- Agregações (SUM, COUNT, ROUND)
-- GROUP BY e ORDER BY
-- Extração de insights estratégicos  
-
-➡ Foco em transformar dados brutos em decisões.
-
----
-
-## 🏢 Projeto Integrador RH  
-Sistema completo com frontend e backend.
-
-- Trabalho em equipe  
-- Modelagem de dados  
-- APIs REST  
-- Processos corporativos  
-
----
-
-## 🎮 Loja de Games (Backend)  
-Backend para e-commerce.
-
-- CRUD completo  
-- Estruturação de dados  
-- Lógica de negócio  
-- Organização de APIs  
-
----
-
-## ✍️ React Blog Pessoal  
-Projeto focado em React e consumo de APIs.
-
-- Hooks  
-- Componentização  
-- SPA  
-
----
-
-## 🎨 Portfólio  
-Minha vitrine profissional com foco em organização e experiência do usuário.
-
----
-
-# 🛠️ Tech Stack  
-
-### 📊 Banco de Dados & Dados
-- MySQL  
-- SQL (DDL, DML, DQL)  
-- Modelagem Relacional  
-- Consultas Analíticas  
-
-### ⚙️ Backend
-- JavaScript  
-- Node.js  
-- APIs REST  
-
-### 🎨 Frontend
-- React.js  
-- HTML5  
-- CSS3  
-
----
-
-# 📈 Atualmente evoluindo em:
-
-- Análise de Dados  
-- Estruturação de queries avançadas  
-- Integração SQL + Dashboard  
-- IA aplicada a dados  
-
----
-
-# 📫 Vamos nos conectar?
-
-🔗 LinkedIn: www.linkedin.com/in/goncalvesbrunal/  
-📧 E-mail: brunaluiza.contat@gmail.com  
-
-> "Transformando dados em decisões e código em soluções."
+🛠️ Stack: Python (Pandas) · SQL/MySQL · JavaScript/TypeScript · Node.js/NestJS · APIs REST · React · LLMs via API
